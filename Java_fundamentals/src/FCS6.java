@@ -18,10 +18,10 @@ public class FCS6 {
     		 }else if(age>=59 && age<=100) {
     			 System.out.println("10.5%");
     		 }
-      }else {
-         System.out.println("Invalid output");
-    	 }
-     
+    	 }else {
+    		 System.out.println("Invalid output");
+    	 }
+     
 	}
 
 }

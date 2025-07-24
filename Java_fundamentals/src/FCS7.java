@@ -14,8 +14,8 @@ public class FCS7 {
 	        
 	            System.out.println(ch + "->" + lower);
 	        }
-	        else {
-	           System.out.println("Invalid Input");
+	            else {
+	            	System.out.println("Invalid Input");
+	            }
 	        }
-	   }
-}
+	    }

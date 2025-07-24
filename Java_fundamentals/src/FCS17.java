@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class FCS17
 {
 	public static void main(String[] args) {
 		int num=121,temp,rev=0,dig;

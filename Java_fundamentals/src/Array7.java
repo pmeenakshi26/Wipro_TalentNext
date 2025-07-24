@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashSet;
 
-public class Arrays7 {
+public class Array7 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
